@@ -1,0 +1,4 @@
+test
+static/upload/*
+static/predict/*
+data/*
